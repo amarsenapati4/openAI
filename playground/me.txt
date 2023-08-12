@@ -1,0 +1,5 @@
+{{#user}}
+My name is Amar Kishore Senapati.
+Here are my skills : html, css ,js , React.js . 
+My email id is amarsenapati4@gmail.com.
+ {{/user}}
